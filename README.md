@@ -18,7 +18,6 @@ This repository consists in two directories with specific purposes:
   2. `BanditBaselines.py`: Two bandit baselines.
   3. `BanditTools.py`: Useful functions for bandit algorithms.
   4. `StochasticBandit.py`: Useful functions that create specific types of MAB.
-  5. `StochasticBandit.py`: Useful functions that create specific types of MAB.
   
 
 For any information, feedback or questions, please [contact me][imad-email]
