@@ -23,14 +23,23 @@ This repository consists in three directories with specific purposes:
 
 ## Results
 
-### Bootstrapped UCB and Giro Compared to Traditional Approaches
+#### Bootstrapped UCB and Giro Compared to Traditional Approaches
 
-### Influence of Parameters
+![Comparison](images/giro_vs_bootstrapucb.PNG)
 
-### Comparison of the Theoretical and Experimental Configurations of Boostrapped UCB.
+#### Influence of Parameters
 
-### UCB0 Compared to Giro and Bootstrapped UCB
+![Influence of Parameters](images/influence_params.PNG)
 
+
+#### Comparison of the Theoretical and Experimental Configurations of Boostrapped UCB
+
+![Theory and Practice](images/theo_vs_expe.PNG)
+
+
+#### UCB0 Compared to Giro and Bootstrapped UCB
+
+![UCB0](images/ucb0_vs_others.PNG)
 
 For any information, feedback or questions, please [contact me][imad-email]
 
