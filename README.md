@@ -1,5 +1,5 @@
 # Bootstrapping Multi-Armed Bandits
-[Imad AOUALI](https://www.linkedin.com/in/imad-aouali/
+[Imad AOUALI](https://www.linkedin.com/in/imad-aouali/)
 ---
 
 ## Abstract
