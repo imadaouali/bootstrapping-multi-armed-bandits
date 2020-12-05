@@ -8,17 +8,29 @@ Multi-Armed bandits have attracted a lot of attention in various applications, f
 
 ## Repository Structure
 
-This repository consists in two directories with specific purposes:
+This repository consists in three directories with specific purposes:
 
 - `documents`: This directory contains 2 papers proposing the use of bootstrapping techniques for Bandit problems.
   1. `Bootstrapping Upper Confidence Bound`
   2. `Giro Bootstrapping Exploration in Multi-Armed Bandits`
 - `codes`: images on which we apply high resolution algorithms.
-  1. `Arms.py`: Different classes of arms, all of them have a sample() method which produce rewards.
-  2. `BanditBaselines.py`: Two bandit baselines.
-  3. `BanditTools.py`: Useful functions for bandit algorithms.
-  4. `StochasticBandit.py`: Useful functions that create specific types of MAB.
-  
+  1. `Bootstrapping_MAB.ipynb`: Implementation from scratch of traditional bandit approaches UCB, kl-UCB, Thompson Sampling. Implementation of Boostrapped UCB, Giro and UCB0 (A UCB variant that I proposed). Comparison on different Bandit problems.
+  2. `Arms.py`: Different classes of arms, all of them have a sample() method which produce rewards.
+  3. `BanditBaselines.py`: Two bandit baselines.
+  4. `BanditTools.py`: Useful functions for bandit algorithms.
+  5. `StochasticBandit.py`: Useful functions that create specific types of MAB.
+- `images`: Contains some of the results obtained by running the notebook.
+
+## Results
+
+### Bootstrapped UCB and Giro Compared to Traditional Approaches
+
+### Influence of Parameters
+
+### Comparison of the Theoretical and Experimental Configurations of Boostrapped UCB.
+
+### UCB0 Compared to Giro and Bootstrapped UCB
+
 
 For any information, feedback or questions, please [contact me][imad-email]
 
