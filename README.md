@@ -13,7 +13,7 @@ This repository consists in three directories with specific purposes:
 - `documents`: This directory contains 2 papers proposing the use of bootstrapping techniques for Bandit problems.
   1. `Bootstrapping Upper Confidence Bound`
   2. `Giro Bootstrapping Exploration in Multi-Armed Bandits`
-- `codes`: images on which we apply high resolution algorithms.
+- `codes`:
   1. `Bootstrapping_MAB.ipynb`: Implementation from scratch of traditional bandit approaches UCB, kl-UCB, Thompson Sampling. Implementation of Boostrapped UCB, Giro and UCB0 (A UCB variant that I proposed). Comparison on different Bandit problems.
   2. `Arms.py`: Different classes of arms, all of them have a sample() method which produce rewards.
   3. `BanditBaselines.py`: Two bandit baselines.
