@@ -43,9 +43,4 @@ This repository consists in three directories with specific purposes:
 
 For any information, feedback or questions, please [contact me][imad-email]
 
-## Acknowledgements <a name = "acknowledgement"></a>
-
-This code was based on RL lab sessions at Ecole Centrale de Lille provided by our professor [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/)
-
-
 [imad-email]: mailto:imadaouali9@gmail.com 
